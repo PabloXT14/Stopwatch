@@ -1,5 +1,5 @@
 # Stopwatch Project
-Project Stopwatch([conteúdo de referência](https://www.youtube.com/watch?v=YB9c1Zg_Ln4&t=474s)) feito com HTML, CSS e Javascript, com o objetivo de treinar e aprimorar habilidades em Javascript, mais especificamente em funções temporizadoras em Javascript.
+Project Stopwatch([conteúdo de referência](https://codepen.io/cathydutton/pen/GBcvo)) feito com HTML, CSS e Javascript, com o objetivo de treinar e aprimorar habilidades em Javascript, mais especificamente em funções temporizadoras em Javascript.
 
 ## 📷 Demonstration
 <img src="./img/Demonstration_Stopwatch.gif" alt="Image de Demostração"> 
